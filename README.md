@@ -1,10 +1,10 @@
-# PASSWORD GENERATOR ADVANCED
+# PASSWORD GENERATOR SIMPLE
 
-![Imagen del proyecto](https://github.com/SandraCarretero/password-generator-advanced/blob/main/src/assets/images/screencapture-password-advanced.png)
+![Imagen del proyecto](https://github.com/SandraCarretero/password-generator-simple/blob/main/src/assets/images/screencapture-password-generator-simple)
 
 ## Ejemplo en vivo
 
-  - [https://sandracarretero.github.io/password-generator-advanced/](https://sandracarretero.github.io/password-generator-advanced/)
+  - [https://sandracarretero.github.io/password-generator-advanced/](https://sandracarretero.github.io/password-generator-simple/)
 
 ## Descripción 📑
 
@@ -29,7 +29,7 @@ Este proyecto del generador de contraseñas me ha enseñado a usar HTML, CSS y J
 
 Si quieres echar un vistazo al proyecto, te recomiendo:
 
-![Captura del proyecto](https://github.com/SandraCarretero/password-generator-advanced/blob/main/src/assets/images/password-advanced.png)
+![Captura del proyecto](https://github.com/SandraCarretero/password-generator-simple/blob/main/src/assets/images/password-simple.png)
 
 ## Autor ✒️
 
