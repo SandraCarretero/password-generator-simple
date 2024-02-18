@@ -4,7 +4,7 @@
 
 ## Ejemplo en vivo
 
-  - [https://sandracarretero.github.io/password-generator-advanced/](https://sandracarretero.github.io/password-generator-simple/)
+  - [https://sandracarretero.github.io/password-generator-simple/](https://sandracarretero.github.io/password-generator-simple/)
 
 ## Descripción 📑
 
