@@ -8,11 +8,11 @@
 
 ## Descripción 📑
 
-Este proyecto es un generador de contraseñas dinámico creado con HTML, CSS y JavaScript. Permite a los usuarios personalizar la longitud y los caracteres incluidos, como mayúsculas, minúsculas, números y/o símbolos. La interfaz intuitiva ofrece controles simples para ajustar las preferencias. Con JavaScript, se generan contraseñas aleatorias basadas en estas preferencias, mientras que el diseño responsivo en CSS asegura una experiencia de usuario óptima en diferentes dispositivos. En resumen, este generador ofrece una forma rápida y fácil de crear contraseñas seguras y personalizadas.
+Este proyecto es un generador de contraseñas simple creado con HTML, CSS y JavaScript. Permite a los usuarios personalizar únicamente la longitud de la contraseña deseada. La interfaz intuitiva ofrece controles simples para ajustar esta preferencia. Con JavaScript, se generan contraseñas aleatorias basadas en la longitud seleccionada, mientras que el diseño responsivo en CSS asegura una experiencia de usuario óptima en diferentes dispositivos. En resumen, este generador ofrece una forma rápida y sencilla de crear contraseñas seguras con longitud personalizada.
 
 ## ¿Qué he aprendido en este proyecto? 🙇🏻
 
-Este proyecto del generador de contraseñas me ha enseñado a usar HTML, CSS y JavaScript para crear una herramienta útil. He mejorado en la manipulación del DOM y el diseño de interfaces. Además, he aprendido sobre la importancia de la personalización para adaptarse a las preferencias del usuario. En resumen, esta experiencia ha fortalecido mis habilidades en el desarrollo web y la creación de soluciones prácticas.
+Este proyecto del generador de contraseñas me ha enseñado a utilizar HTML, CSS y JavaScript para crear una herramienta útil de manera sencilla. He mejorado en la manipulación del DOM y en el diseño de interfaces. Además, he comprendido la importancia de adaptar la funcionalidad a las necesidades específicas del usuario. En resumen, esta experiencia ha reforzado mis habilidades en el desarrollo web y en la creación de soluciones prácticas y directas.
 
 ## Tecnologías 🛠
 
